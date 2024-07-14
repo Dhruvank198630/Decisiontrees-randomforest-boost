@@ -1,0 +1,1 @@
+this model predicts if a person has heart disease using various sister algorithms such as Basic Decision Tree Classification, Random Forest Algorithm and Boosted Gradient and comparing the accuracies within.
